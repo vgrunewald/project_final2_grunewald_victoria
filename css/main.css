@@ -5,3 +5,7 @@ html {
 *, *:before, *:after {
     box-sizing: inherit;
 }
+
+body {
+    background: url("../img/metal_texture.jpg") repeat; /*seam?*/
+}
