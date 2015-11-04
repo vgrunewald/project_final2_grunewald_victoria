@@ -41,6 +41,18 @@ aside {
     padding: 10px;
 }
 
+h1,
+h2,
+p {
+    margin-top: 0;
+}
+
+h1,
+h2 {
+    margin-bottom: 0.5em;
+}
+
+
 h1 {
     font-family: 'Audiowide', sans-serif;
     color: #b8d844;
@@ -61,7 +73,8 @@ p {
     font-family: 'Droid Sans Mono', sans-serif;
     color: #fff;
     font-size: 1.2em;
-    line-height: 1.5em
+    line-height: 1.5em;
+    margin-bottom: 1em;
 }
 
 a {
