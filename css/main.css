@@ -25,6 +25,10 @@ body {
     max-width: 606px;
 }
 
+#banner {
+    border-top: 7px solid #5b3f7c;
+}
+
 #banner img {
     max-width: 1200px;
     width: 100%;
