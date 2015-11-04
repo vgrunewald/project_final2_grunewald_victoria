@@ -15,3 +15,10 @@ body {
     background: linear-gradient(#0e0f55, #0243a9);
     padding: 25px;
 }
+
+#logo {
+    margin-bottom: 10px;
+    width: 100%;
+    height: auto;
+    max-width: 606px;
+}
