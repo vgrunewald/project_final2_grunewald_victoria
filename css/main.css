@@ -56,3 +56,14 @@ p {
     font-size: 1.2em;
     line-height: 1.5em
 }
+
+a {
+    font-family: 'Droid Sans Mono', sans-serif;
+    color: #cce34e;
+    font-size: 1.2em;
+    line-height: 1.5em
+}
+
+a:hover {
+    color: #fff;
+}
