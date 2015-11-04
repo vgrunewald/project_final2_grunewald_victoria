@@ -7,5 +7,9 @@ html {
 }
 
 body {
-    background: url("../img/metal_texture.jpg") repeat; /*seam?*/
+    background: url("../img/metal_texture.jpg") repeat;/*seam?*/
+}
+
+#container {
+    background-color: #001a53;
 }
