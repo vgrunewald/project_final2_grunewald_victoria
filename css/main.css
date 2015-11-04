@@ -138,6 +138,10 @@ a:hover {
     max-width: 360px;
 }
 
+#rocket {
+    transform: rotate(15deg);
+}
+
 @media all and (min-width: 700px) {
     img#rocket {
         float: right;
