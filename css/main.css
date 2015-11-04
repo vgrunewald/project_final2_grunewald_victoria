@@ -63,7 +63,7 @@ h1 {
 
 h2 {
     font-family: 'Source Code Pro', sans-serif;
-    color: #cce34e;
+    color: #b8d844;
     font-weight: 600;
     font-size: 2em;
 }
@@ -81,7 +81,7 @@ p {
 }
 
 a {
-    color: #cce34e;
+    color: #b8d844;
 }
 
 a:hover {
@@ -92,7 +92,7 @@ a:hover {
     font-family: 'Source Code Pro', sans-serif;
     color: #713de5;
     font-size: 1.5em;
-    background-color: #cce34e;
+    background-color: #b8d844;
     border: none;
     border-radius: 10px;
     box-shadow: 0 10px #95a534;
@@ -102,11 +102,11 @@ a:hover {
 }
 
 .press button:hover {
-    background-color: #bed148;
+    background-color: #aac73f;
 }
 
 .press button:active {
-    background-color: #bed148;
+    background-color: #aac73f;
     box-shadow: 0 5px #95a534;
     transform: translateY(5px);
 }
