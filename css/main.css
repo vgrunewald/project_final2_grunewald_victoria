@@ -43,7 +43,8 @@ h1 {
     font-size: 2.5em;
 }
 
-h2 {
+h2,
+.press button {
     font-family: 'Source Code Pro', sans-serif;
     color: #cce34e;
     font-weight: 600;
@@ -66,4 +67,29 @@ a {
 
 a:hover {
     color: #fff;
+}
+
+.press button {
+    color: #713de5;
+    background-color: #cce34e;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 10px #95a534;
+    margin: 20px 0;
+    padding: 0.5rem 1.5rem;
+    height: auto;
+}
+
+.press button:hover {
+    background-color: #bed148;
+}
+
+.press button:active {
+    background-color: #bed148;
+    box-shadow: 0 5px #95a534;
+    transform: translateY(5px);
+}
+
+.press button:focus {
+    outline: none;
 }
