@@ -42,3 +42,10 @@ h1 {
     text-transform: uppercase;
     font-size: 2.5em;
 }
+
+h2 {
+    font-family: 'Source Code Pro', sans-serif;
+    color: #cce34e;
+    font-weight: 600;
+    font-size: 2em;
+}
