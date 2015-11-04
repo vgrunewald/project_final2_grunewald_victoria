@@ -69,19 +69,20 @@ h2,
     font-size: 2em;
 }
 
-p {
+p,
+a {
     font-family: 'Droid Sans Mono', sans-serif;
-    color: #fff;
     font-size: 1.2em;
     line-height: 1.5em;
+}
+
+p {
+    color: #fff;
     margin-bottom: 1em;
 }
 
 a {
-    font-family: 'Droid Sans Mono', sans-serif;
     color: #cce34e;
-    font-size: 1.2em;
-    line-height: 1.5em
 }
 
 a:hover {
