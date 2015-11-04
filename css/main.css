@@ -36,6 +36,11 @@ body {
     height: auto;
 }
 
+main,
+aside {
+    padding: 10px;
+}
+
 h1 {
     font-family: 'Audiowide', sans-serif;
     color: #b8d844;
