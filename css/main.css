@@ -96,6 +96,11 @@ a:hover {
     color: #fff;
 }
 
+.press {
+    margin: 20px;
+    text-align: center;
+}
+
 .press button {
     font-family: 'Source Code Pro', sans-serif;
     color: #713de5;
@@ -104,8 +109,9 @@ a:hover {
     border: none;
     border-radius: 10px;
     box-shadow: 0 10px #95a534;
-    margin: 20px 0;
-    padding: 0.5rem 2rem;
+    width: 100%;
+    max-width: 450px;
+    padding: 0.5rem 0;
     height: auto;
 }
 
