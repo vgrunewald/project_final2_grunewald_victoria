@@ -44,14 +44,6 @@ aside {
     margin: 10px 20px;
 }
 
-@media all and (min-width: 900px) {
-    main,
-    aside {
-        width: 85%;
-        margin: 20px auto;
-    }
-}
-
 h1,
 h2,
 p {
@@ -127,8 +119,6 @@ a:hover {
 }
 
 #secondary_images {
-    text-align: center;
-    width: 100%;
     max-width: 850px;
 }
 
@@ -146,18 +136,17 @@ a:hover {
     img#rocket {
         float: right;
         width: 48%;
-        margin-top: 55px;
+        margin-top: 40px;
     }
     img#alien {
         float: left;
         width: 48%;
-        margin-right: 10px;
     }
-    #container::after,
-    #wrapper::after,
-    #secondary_images::after {
+    #secondary_images {
+        margin: auto;
+    }
+    #container::after {
         content: "";
         display: block;
         clear: both;
-    }
 }
