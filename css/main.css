@@ -176,12 +176,10 @@ a:hover {
     }
     img#rocket {
         float: right;
-        width: 48%;
         margin-top: 40px;
     }
     img#alien {
         float: left;
-        width: 48%;
     }
     #secondary_images {
         margin: auto;
