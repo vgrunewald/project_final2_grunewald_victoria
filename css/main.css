@@ -28,12 +28,12 @@ body{
 
 @media all and (min-width: 1200px) {
     body {
-        background: url("../img/metal_texture.jpg") repeat;/*seam?*/
+        background: url("../img/metal_texture.jpg") repeat;
     }
 }
 
 #container {
-    background-color: #0e0f55; /*Fall back color*/
+    background-color: #0e0f55;
     background: linear-gradient(#0e0f55, #000955, #0243a9);
     background: -webkit-linear-gradient(#0e0f55, #000955, #0243a9);
     background: -moz-linear-gradient(#0e0f55, #000955, #0243a9);
