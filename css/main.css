@@ -23,9 +23,9 @@ body{
 
 #container {
     background-color: #0e0f55; /*Fall back color*/
-    background: linear-gradient(#0e0f55, #0243a9);
-    background: -webkit-linear-gradient(#0e0f55, #0243a9);
-    background: -moz-linear-gradient(#0e0f55, #0243a9);
+    background: linear-gradient(#0e0f55, #000955, #0243a9);
+    background: -webkit-linear-gradient(#0e0f55, #000955, #0243a9);
+    background: -moz-linear-gradient(#0e0f55, #000955, #0243a9);
     width: 100%;
     max-width: 1200px;
     margin: auto;
