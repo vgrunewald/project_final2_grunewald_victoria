@@ -42,6 +42,10 @@ body{
     margin: auto;
 }
 
+header {
+    background: url("../img/stars.png") repeat-x;
+}
+
 #logo {
     padding: 20px;
     width: 100%;
