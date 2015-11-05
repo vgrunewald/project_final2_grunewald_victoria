@@ -149,4 +149,14 @@ a:hover {
         content: "";
         display: block;
         clear: both;
+    }
+}
+
+footer {
+    background-color: #5b3f7c;
+    text-align: center;
+    padding: 10px 0;
+}
+footer p {
+    margin-bottom: 0;
 }
