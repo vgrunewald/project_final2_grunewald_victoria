@@ -39,8 +39,7 @@ body {
 
 main,
 aside {
-    width: 95%;
-    margin: 10px 20px;
+    padding: 20px;
 }
 
 section {
