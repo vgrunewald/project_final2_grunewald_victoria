@@ -127,6 +127,7 @@ a:hover {
     font-family: 'Source Code Pro', sans-serif;
     color: #713de5;
     font-size: 1.5em;
+    text-transform: uppercase;
     background-color: #b8d844;
     border: none;
     border-radius: 10px;
