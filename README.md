@@ -1,4 +1,6 @@
-# [Vicki Grunewald Final Part 2](https://github.com/vgrunewald/project_final2_grunewald_victoria)
+# [Vicki Grunewald Part 2 GitHub](https://github.com/vgrunewald/project_final2_grunewald_victoria)
+
+#[Vicki Grunewald Part 2 Live](http://www.vickigrunewald.com/final2)
 
 # Resources
 * [Stylish CSS Buttons](http://callmenick.com/post/stylish-css-buttons)
